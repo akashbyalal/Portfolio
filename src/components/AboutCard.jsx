@@ -1,5 +1,5 @@
 import SpotlightCard from "./reactbits/SpotlightCard/SpotlightCard.jsx";
-import WebDev from "./images/webDev.png";
+import WebDev from "./images/webdev.png";
 import BackEnd from "./images/backend.png";
 import User from "./images/user.png";
 
