@@ -1,5 +1,5 @@
 import TiltedCard from "./reactbits/TiltedCard/TiltedCard";
-import me from "./images/Mee.jpg"
+import me from "./images/mee.jpg"
 function Intro() {
   return (
     <>
