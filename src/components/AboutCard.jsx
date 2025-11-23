@@ -1,7 +1,7 @@
 import SpotlightCard from "./reactbits/SpotlightCard/SpotlightCard.jsx";
-import WebDev from "./images/WebDev.png";
-import BackEnd from "./images/Backend.png";
-import User from "./images/User.png";
+import WebDev from "./images/webDev.png";
+import BackEnd from "./images/backend.png";
+import User from "./images/user.png";
 
 function AboutCard() {
   return (
